@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class ValorCompra {
@@ -17,4 +18,9 @@ public class ValorCompra {
             System.out.println("valor asignado: " +valor);
         }
     }
+=======
+package PACKAGE_NAME;
+
+public class ValorCompra {
+>>>>>>> 5cf37c57f21a97ff688805711250ed0b3eb3f112
 }

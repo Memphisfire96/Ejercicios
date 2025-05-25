@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Triangulo {
@@ -23,4 +24,9 @@ public class Triangulo {
 
 
     }
+=======
+package PACKAGE_NAME;
+
+public class Triangulo {
+>>>>>>> 5cf37c57f21a97ff688805711250ed0b3eb3f112
 }

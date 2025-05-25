@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Mayorque {
@@ -17,4 +18,9 @@ public class Mayorque {
         }
 
     }
+=======
+package PACKAGE_NAME;
+
+public class Mayorque {
+>>>>>>> 5cf37c57f21a97ff688805711250ed0b3eb3f112
 }

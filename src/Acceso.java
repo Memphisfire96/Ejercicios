@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Acceso {
@@ -32,3 +33,9 @@ public class Acceso {
         }
     }
 
+=======
+package PACKAGE_NAME;
+
+public class Accesi {
+}
+>>>>>>> 5cf37c57f21a97ff688805711250ed0b3eb3f112

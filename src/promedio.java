@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class promedio {
@@ -18,4 +19,9 @@ public class promedio {
             }
         }
     }
+=======
+package PACKAGE_NAME;
+
+public class promedio {
+>>>>>>> 5cf37c57f21a97ff688805711250ed0b3eb3f112
 }
